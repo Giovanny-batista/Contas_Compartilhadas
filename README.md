@@ -14,6 +14,7 @@ Usuários podem ser convidados para grupos via email.
 
 ## Visualização de Dados:
 - Permite visualizar gastos através de gráficos
+  
 -Comparação de gastos compartilhados entre os membros do grupo, filtráveis por mês.
 
 ## Tecnologias Utilizadas:
@@ -35,4 +36,17 @@ Usuários podem ser convidados para grupos via email.
 
   ## Passos para Configuração:
   1. Clone o repositório:
-     ```bash git clone 
+     ```bash
+      git clone https://github.com/Giovanny-batista/Contas_Compartilhadas.git
+      cd contascompartilhadas
+     
+  2. Configure o Firebase no projeto:
+     - Crie um novo projeto no Firebase.
+
+  3. Instale as dependências:
+     ```bash
+     flutter pub get
+
+  4. Execute o Aplicativo
+     ```bash
+     flutter run
