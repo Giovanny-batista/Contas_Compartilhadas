@@ -50,3 +50,10 @@ Usuários podem ser convidados para grupos via email.
   4. Execute o Aplicativo
      ```bash
      flutter run
+
+Vídeo do Projeto: 
+<div>
+  <a href="https://youtu.be/jwl4pT33nM4">
+    <img src="https://img.youtube.com/vi/jwl4pT33nM4/0.jpg" alt="Vídeo de Apresentação" height="300"/>
+  </a>
+</div>
